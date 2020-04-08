@@ -1,0 +1,29 @@
+.container{
+    width: 700px;
+    height: 100px;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 0px;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.item{
+    width: 50px;
+    height: 50px;
+}
+.blue{
+    background-color: #336DFF;
+}
+.first{
+    background: white;
+    border: 1px solid blue;
+}
+.second{
+    background: orangered;
+    border: 1px solid blue;
+}
+.lilac{
+    background-color: 
+}
